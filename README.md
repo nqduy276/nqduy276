@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nqduy276
 - 👀 I’m interested in you
-- 🌱 I’m currently learning CS-HCMUT
+- 🌱 I’m currently learning CS-HCMUT-VNU
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me duynguyenquoc276@email.com
 - ⚡ Fun fact: ...is a fact which is fun :))
