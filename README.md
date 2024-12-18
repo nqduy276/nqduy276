@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning CS-HCMUT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me duynguyenquoc276@email.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...is a fact which is fun :))
 
 <!---
